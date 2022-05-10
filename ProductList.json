@@ -1,0 +1,167 @@
+[
+  {
+    "ID": "000A",
+    "Brand": "ZOTAC",
+    "ProductName": "ZOTAC GeForce RTX 3060 TI Twin Edge",
+    "GraphicName": "zotacRTX3060TI.jpg",
+    "CostPrice": "707.99",
+    "MSRP": "519.99",
+    "QtyOnHand": "25",
+    "QtyOnBackorder": "20",
+    "Description": "Get Amplified with the all-new ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6 memory, the ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC LHR gives rise to amplified gaming with high graphics fidelity. Features: - 2nd Gen Ray Tracing Cores - 3rd Gen Tensor Cores - White LED Logo Lighting - IceStorm 2.0 Advanced Cooling - Active Fan Control - FREEZE Fan Stop - Metal Backplate - FireStorm Utility - VR Ready - LHR 25 MH/s ETH hash rate (est.)."
+  },
+  {
+    "ID": "000B",
+    "Brand": "MSI",
+    "ProductName": "MSI Gaming GeForce RTX 3060 12GB",
+    "GraphicName": "msiRTX3060.jpg",
+    "CostPrice": "655.99",
+    "MSRP": "449.99",
+    "QtyOnHand": "22",
+    "QtyOnBackorder": "19",
+    "Description": "The GeForce RTX 3060 lets you take on the latest games using the power of Ampere, NVIDIA's 2nd generation RTX architecture. Get incredible performance with enhanced Ray Tracing Cores and Tensor Cores, new streaming multiprocessors, and high-speed G6 memory."
+  },
+  {
+    "ID": "000C",
+    "Brand": "MSI",
+    "ProductName": "MSI Gaming Geforce GTX 1660 Super",
+    "GraphicName": "msiGTX1660.jpg",
+    "CostPrice": "457.99",
+    "MSRP": "379.99",
+    "QtyOnHand": "12",
+    "QtyOnBackorder": "5",
+    "Description": "Get game ready with GeForce GTX super GPU. Geforce GTX graphics cards are the most advanced ever created. Discover unprecedented performance, power efficiency, and next-generation gaming experiences. Discover next-generation VR performance, The lowest latency, and plug-and-play compatibility with leading headsets driven by NVIDIA VR works technologies. Vr audio, physics, and haptics let you hear and feel every moment. Pascal is built to meet the demands of next generation displays, including VR, ultra-high-resolution, and multiple monitors. It features NVIDIA game works technologies for extremely smooth game play and cinematic experiences. Plus, it includes revolutionary new 360-degree image capture. Pascal-powered graphics cards give you superior performance and power efficiency, built using ultra-fast fine and supporting direct 12 features to deliver the fastest, smoothest, most power-efficient gaming experiences."
+  },
+  {
+    "ID": "000D",
+    "Brand": "MSI",
+    "ProductName": "MSI Gaming AMD Radeon RX 6500 XT",
+    "GraphicName": "msiRX6500.jpg",
+    "CostPrice": "269.99",
+    "MSRP": "249.99",
+    "QtyOnHand": "15",
+    "QtyOnBackorder": "7",
+    "Description": "MSI Gaming AMD Radeon RX 6500 XT 64-bit 4GB GDDR6 DP/HDMI PCIe 4 Torx Twin Fans FreeSync DirectX 12 VR Ready OC Graphics Card (RX 6500 XT MECH 2X 4G OC)"
+  },
+  {
+    "ID": "000E",
+    "Brand": "MSI",
+    "ProductName": "MSI Gaming GeForce RTX 3050 8GB",
+    "GraphicName": "msiRTX3050.jpg",
+    "CostPrice": "498.98",
+    "MSRP": "399.99",
+    "QtyOnHand": "8",
+    "QtyOnBackorder": "3",
+    "Description": "MSI Gaming GeForce RTX 3050 8GB GDRR6 128-Bit HDMI/DP PCIe 4 Torx Twin Fans Ampere Graphics Card (RTX 3050 Gaming X 8G)"
+  },
+  {
+    "ID": "000F",
+    "Brand": "ASUS",
+    "ProductName": "ASUS GeForce RTX 2060 Overclocked 6G",
+    "GraphicName": "asusRTX2060.jpg",
+    "CostPrice": "489.98",
+    "MSRP": "399.99",
+    "QtyOnHand": "8",
+    "QtyOnBackorder": "3",
+    "Description": "Experience silent and powerful gaming with the next-gen ASUS DUAL RTX 2060 O6G EVO. Featuring NVIDIA’s new Turing GPU architecture, the card’s innovative graphics stay frosty with 0dB dust resistant fans for a 50% cooling increase, while overclocking and monitoring are made easy with ASUS’ GPU Tweak II software."
+  },
+  {
+    "ID": "000G",
+    "Brand": "ASUS",
+    "ProductName": "ASUS GeForce GTX 1050 Ti 4GB",
+    "GraphicName": "asusGTX1050TI.jpg",
+    "CostPrice": "240.57",
+    "MSRP": "199.99",
+    "QtyOnHand": "5",
+    "QtyOnBackorder": "10",
+    "Description": "Powered by NVIDIA Pascal, ASUS Phoenix Series GTX 1050Ti delivers cool performance with a 1392 mhz Boost clock for easily upgrading your system with no additional PCIe power connectors. Gpu tweak II with XSplit Gamecaster provides ultimate monitoring and streaming control, while Super alloy power II provides precise power delivery. Interface:DVI Output : Yes x 1 (Native) (DVI-D),HDMI Output : Yes x 1 (Native) (HDMI 2.0),Display Port : Yes x 1 (Native) (Regular DP),HDCP Support : Yes. Software: ASUS GPU Tweak II & Driver."
+  },
+  {
+    "ID": "000H",
+    "Brand": "ASUS",
+    "ProductName": "ASUS Dual AMD Radeon RX 6600 XT OC Edition 8GB",
+    "GraphicName": "asusRX6600XT.jpg",
+    "CostPrice": "579.99",
+    "MSRP": "499.99",
+    "QtyOnHand": "18",
+    "QtyOnBackorder": "20",
+    "Description": "Delivering the latest AMD RDNA 2 architecture experience in its purest form, the ASUS Dual Radeon RX 6600 XT melds performance and simplicity like no other. Leveraging advanced cooling technologies derived from flagship graphics cards, the Dual opts for substance over style, the perfect choice for a well-balanced build."
+  },
+  {
+    "ID": "000I",
+    "Brand": "MSI",
+    "ProductName": "MSI Gaming GeForce GTX 1650",
+    "GraphicName": "msiGTX1650.jpg",
+    "CostPrice": "251.09",
+    "MSRP": "219.99",
+    "QtyOnHand": "12",
+    "QtyOnBackorder": "8",
+    "Description": "Featuring concurrent execution of floating point and integer operations, adaptive shading technology, and a new unified memory architecture with twice the cache of its predecessor. Get 1.4X power efficiency over previous generation for a faster, cooler and quieter gaming experience that take advantage of Turing’s advanced graphics features."
+  },
+  {
+    "ID": "000J",
+    "Brand": "ZOTAC",
+    "ProductName": "ZOTAC Gaming GeForce GTX 1660",
+    "GraphicName": "zotacGTX1660.jpg",
+    "CostPrice": "399.99",
+    "MSRP": "349.99",
+    "QtyOnHand": "8",
+    "QtyOnBackorder": "0",
+    "Description": "The all-new generation of ZOTAC gaming GeForce GTX graphics cards are here. Based on the new NVIDIA Turing architecture, it's packed with GDDR5 Fast memory. Get ready to get fast and game strong."
+  },
+  {
+    "ID": "000K",
+    "Brand": "ZOTAC",
+    "ProductName": "ZOTAC Gaming GeForce RTX 3080 Trinity OC LHR 10GB",
+    "GraphicName": "zotacRTX3080.jpg",
+    "CostPrice": "1237.99",
+    "MSRP": "1099.99",
+    "QtyOnHand": "25",
+    "QtyOnBackorder": "50",
+    "Description": "Get Amplified with the all-new ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6X memory, the ZOTAC GAMING GeForce RTX 3080 Trinity OC LHR gives rise to amplified gaming with ultra graphics fidelity. Features: - 2nd Gen Ray Tracing Cores - 3rd Gen Tensor Cores - SPECTRA 2.0 RGB Lighting - IceStorm 2.0 Advanced Cooling - FREEZE Fan Stop - Active Fan Control - Metal Frontplate and Lighted Backplate - FireStorm Utility - VR Ready - LHR 43 MH/s ETH hash rate (est.)."
+  },
+  {
+    "ID": "000L",
+    "Brand": "ZOTAC",
+    "ProductName": "ZOTAC Gaming GeForce RTX 3050 Twin Edge OC 8GB",
+    "GraphicName": "zotacRTX3050.jpg",
+    "CostPrice": "491.78",
+    "MSRP": "399.99",
+    "QtyOnHand": "22",
+    "QtyOnBackorder": "48",
+    "Description": "Get Amplified with the all-new ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6X memory, the ZOTAC GAMING GeForce RTX 3080 Trinity OC LHR gives rise to amplified gaming with ultra graphics fidelity. Features: - 2nd Gen Ray Tracing Cores - 3rd Gen Tensor Cores - SPECTRA 2.0 RGB Lighting - IceStorm 2.0 Advanced Cooling - FREEZE Fan Stop - Active Fan Control - Metal Frontplate and Lighted Backplate - FireStorm Utility - VR Ready - LHR 43 MH/s ETH hash rate (est.)."
+  },
+  {
+    "ID": "000M",
+    "Brand": "ZOTAC",
+    "ProductName": "ZOTAC Gaming GeForce RTX 3080 Ti Trinity OC 12GB",
+    "GraphicName": "zotacRTX3080TI.jpg",
+    "CostPrice": "1507.99",
+    "MSRP": "1299.99",
+    "QtyOnHand": "28",
+    "QtyOnBackorder": "36",
+    "Description": "Get Amplified with the all-new ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6X memory, the ZOTAC GAMING GeForce RTX 3080 Trinity OC LHR gives rise to amplified gaming with ultra graphics fidelity. Features: - 2nd Gen Ray Tracing Cores - 3rd Gen Tensor Cores - SPECTRA 2.0 RGB Lighting - IceStorm 2.0 Advanced Cooling - FREEZE Fan Stop - Active Fan Control - Metal Frontplate and Lighted Backplate - FireStorm Utility - VR Ready - LHR 43 MH/s ETH hash rate (est.)."
+  },
+  {
+    "ID": "000N",
+    "Brand": "ASUS",
+    "ProductName": "ASUS ROG Strix NVIDIA GeForce RTX 3060 V2 OC Edition",
+    "GraphicName": "asusRTX3060.jpg",
+    "CostPrice": "609.99",
+    "MSRP": "499.99",
+    "QtyOnHand": "18",
+    "QtyOnBackorder": "30",
+    "Description": "From top to bottom, the ROG Strix GeForce RTX™ 3060 has been designed to push performance boundaries. A fresh design and more metal surrounds the Axial-tech fans that leverage a new rotation scheme. Below the blades, a larger, more impressive heatsink is ready for the most demanding thermal loads."
+  },
+  {
+    "ID": "000O",
+    "Brand": "ASUS",
+    "ProductName": "ASUS ROG STRIX NVIDIA GeForce RTX™ 3090 White OC Edition",
+    "GraphicName": "asusRTX3090.jpg",
+    "CostPrice": "2679.99",
+    "MSRP": "2280.00",
+    "QtyOnHand": "10",
+    "QtyOnBackorder": "5",
+    "Description": "The ROG STRIX GeForce RTX™ 3090 White OC Edition 24GB GDDR6X adds to the NVIDA Ampere Architecture with a white color scheme, Axial-tech fan design, 0dB technology, 2.9-slot Design, Dual BIOS, Auto-Extreme Technology, SAP II, MaxContact Technology, and more."
+  }
+]
